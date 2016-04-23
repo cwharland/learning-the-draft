@@ -1,3 +1,3 @@
-# Learning the NFL Draft
+Starting material from Sean J. Taylor found [here](https://github.com/seanjtaylor/learning-the-draft).
 
-See the [post here](https://seanjtaylor.github.io/learning-the-draft/).
+I just kept the data and followed his script verbatim up until modeling.
